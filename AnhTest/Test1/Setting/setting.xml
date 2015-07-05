@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+	<cluster>
+		<numberOfCluster>7</numberOfCluster>
+		<alpha>0.5</alpha>
+		<fuzzifier> 2 </fuzzifier>
+		<epsilon> 0.01 </epsilon>
+		<maxStep> 1000 </maxStep>
+	</cluster>
+</Data>

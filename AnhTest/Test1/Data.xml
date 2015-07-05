@@ -1,0 +1,49 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Data>
+	<from>9h30</from>
+	<to>15h30</to>
+	<description>demo forecasr weather</description>
+	<numberOfImage>7</numberOfImage>
+	<images>
+		<image id ="0">
+			<name>Image1.jpg</name>
+			<src>no image</src>
+			<time>9:30</time>
+		</image>
+		<image id="1">
+			<name>Image2.jpg</name>
+			<src>no image</src>
+			<time>10:30</time>
+		</image>
+		<image id="2">
+			<name>Image3.jpg</name>
+			<src>no image</src>
+			<time>11:30</time>
+		</image>
+		<image id ="3">
+			<name>Image4.jpg</name>
+			<src>no image</src>
+			<time>12:30</time>
+		</image>
+		<image id ="4">
+			<name>Image5.jpg</name>
+			<src>no image</src>
+			<time>13:30</time>
+		</image>
+		<image id ="5">
+			<name>Image6.jpg</name>
+			<src>no image</src>
+			<time>14:30</time>
+		</image>
+		<image id ="6">
+			<name>Image7.jpg</name>
+			<src>no image</src>
+			<time>15:30</time>
+		</image>
+				
+	</images>
+	<forecast> 
+		<time>16:30 </time>
+	</forecast>
+	
+</Data>
